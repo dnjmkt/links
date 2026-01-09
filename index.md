@@ -1,4 +1,12 @@
 ## 特許・技術
+##A. 歌詞・音節・フレーズ制御（基本特許群）    「歌詞を“演奏可能なパラメータ”として扱う」核
+- 20.[特開2022-044938](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044938/11/ja)
+- 21.[特開2022-044937](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044937/11/ja)
+- 15.[特開2023-015302](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-015302/11/ja)
+- 12.[特開2023-092599](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092599/11/ja)
+- 14.[特開2023-092120](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092120/11/ja)
+- 13.[特開2023-092598](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092598/11/ja)
+
 - 1.[特開2025-001067](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001067/11/ja)
 - 2.[特開2025-001066](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001066/11/ja)
 - 3.[特開2025-001065](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001065/11/ja)
@@ -10,16 +18,10 @@
 - 9.[特開2023-181433](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-181433/11/ja)
 - 10.[特開2023-118866](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-118866/11/ja)
 - 11.[特開2023-105472](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-105472/11/ja)
-- 12.[特開2023-092599](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092599/11/ja)
-- 13.[特開2023-092598](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092598/11/ja)
-- 14.[特開2023-092120](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092120/11/ja)
-- 15.[特開2023-015302](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-015302/11/ja)
 - 16.[特開2022-168269](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-168269/11/ja)
 - 17.[特開2022-145465](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-145465/11/ja)
 - 18.[特開2022-116335](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-116335/11/ja)
 - 19.[特開2022-071098](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-071098/11/ja)
-- 20.[特開2022-044938](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044938/11/ja)
-- 21.[特開2022-044937](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044937/11/ja)
 
 ## artists
 - [Stevie Wonder (NAMM Show)](https://twitter.com/i/status/1647035785194119168) (X)
